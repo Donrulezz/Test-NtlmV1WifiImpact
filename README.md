@@ -48,3 +48,8 @@ Run it as administrator for the event log and Device Guard results. Windows Powe
 
 MIT licensed. Not affiliated with Microsoft. Check Microsoft's KB5127648 article and MC1508562 before changing production
 settings.
+
+## Need it done?
+Many PCs, or no time to move Wi-Fi to certificates? I check every PC, deploy the stop-gap by Group Policy or Intune the same
+day, and can move your Wi-Fi, wired or VPN to EAP-TLS: [fix office Wi-Fi, LAN or VPN login after KB5127648 (Fiverr, from $35)](https://www.fiverr.com/donrulezz/fix-spf-dkim-and-dmarc-so-your-emails-stop-going-to-spam).
+The script stays free.

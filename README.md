@@ -50,6 +50,5 @@ MIT licensed. Not affiliated with Microsoft. Check Microsoft's KB5127648 article
 settings.
 
 ## Need it done?
-Many PCs, or no time to move Wi-Fi to certificates? I check every PC, deploy the stop-gap by Group Policy or Intune the same
-day, and can move your Wi-Fi, wired or VPN to EAP-TLS: [fix office Wi-Fi, LAN or VPN login after KB5127648 (Fiverr, from $35)](https://www.fiverr.com/donrulezz/fix-spf-dkim-and-dmarc-so-your-emails-stop-going-to-spam).
-The script stays free.
+Many PCs, or no time to move Wi-Fi to certificates? The step-by-step fix (stop-gap by Group Policy or Intune, then
+EAP-TLS) is at [deadlinefix.com](https://deadlinefix.com/fix/windows-kb5127648-8021x-wifi-vpn-sign-in). The script stays free.
